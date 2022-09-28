@@ -58,6 +58,10 @@ body{
 .navbar a:hover{
   color: orangered;
 }
+.descript p span{
+ font-size: 25px;
+ font-family: 'Bungee Spice', cursive;
+}
 
 @media screen and (max-width:678px){
   .navbar a{
