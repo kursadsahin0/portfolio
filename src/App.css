@@ -1,0 +1,80 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Bungee+Spice&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Abyssinica+SIL&display=swap');
+body{
+  background-color: #1E2B52;
+}
+.hi h1{
+  font-family: 'Bungee Spice', cursive;
+  text-align: center;
+   margin-top:5% ;
+}
+
+.hi span{
+  font-family: 'Abyssinica SIL', serif;
+  color: #FFF;
+  font-weight: bold;
+}
+.hi{
+  font-size: 30px;
+}
+.descript{
+  color: #fff;
+  text-align: center;
+  font-size: 20px;
+  font-family: 'Abyssinica SIL', serif;
+  letter-spacing: 1px;
+}
+
+
+
+.button{
+  text-align: center;
+  margin-top: 6%;
+}
+.button button{
+  background-color: transparent;
+  border: none;
+}
+
+.github, .linkedin, .mail, .youtube{
+  color: #FFF;
+  font-size: 30px;
+ 
+}
+.github, .mail, .youtube{
+  margin-left: 2%;
+}
+.navbar{
+  text-align: center;
+  margin-top: 3%;
+}
+.navbar a{
+  text-decoration: none;
+  color: #fff;
+  font-size: 25px;
+  margin-left: 2%;
+}
+.navbar a:hover{
+  color: orangered;
+}
+
+@media screen and (max-width:678px){
+  .navbar a{
+    margin-left: 5%;
+  }
+  .hi{
+    font-size: 20px;
+  }
+  .banner{
+    margin-top: 10%;
+    
+  }
+  .descript{
+    color: #fff;
+    text-align: center;
+    font-size: 15px;
+    font-family: 'Abyssinica SIL', serif;
+    letter-spacing: 1px;
+  }
+}
