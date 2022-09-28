@@ -22,7 +22,7 @@ function Home() {
                     <h1 >Hi,<span> My name is Kürşat</span></h1>
                 </div>
                 <div className='descript'>
-                    <p>A Frontend developer with a passion for learning  and creating. <br/>I graduated from Bartın University Management information system. <br/> I’m interested in Web development since second year of the university.<br/> I started to develop Project with Javascript and React.<br/> I develope myself in terms of research, self-motivation and acquiring different abilities.<br/> I’m a team player, willing to be trained for growth.<br/> I’m believe that everyday is a new start. I'm interested in Web development since<br/> second year of the university. I started to develop projects with Javascript and React. I developed<br/> myself in terms of research, self-motivation and acquiring different abilities. I'm a team player,<br/> willing to be trained for growth. I'm believe that everyday is a new start.</p>
+              <p><span>A Frontend developer with a passion for learning  and creating.</span><br/><br/> <br/>I graduated from Bartın University Management information system. <br/> I’m interested in Web development since second year of the university.<br/> I started to develop Project with Javascript and React.<br/> I develope myself in terms of research, self-motivation and acquiring different abilities.<br/> I’m a team player, willing to be trained for growth.<br/> I’m believe that everyday is a new start.</p>
                 </div>
                 <div className="button">
                     <a href="https://www.linkedin.com/in/kursat-sahin0/" aria-label="Linkedin" rel="noopener" target="_blank">
